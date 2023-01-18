@@ -1,0 +1,27 @@
+table{
+    background-color: rgb(147, 179, 170);
+    margin: 5vh;
+    border: solid rgb(8, 7, 8) 1px;
+    border: outset
+}
+
+th{
+    color: white;
+    text-shadow: black;
+    background-color: darkslategray;
+    font-size: medium;
+    text-shadow: antiquewhite;
+}
+
+td{
+    border: solid black 1px;
+    vertical-align: middle;
+
+}
+
+.fila1{
+    background-color: rgb(144, 238, 213);
+}
+.fila2{
+    background-color: rgb(144, 238, 213);
+}
